@@ -58,7 +58,7 @@ abdr = Developer()
 
 ### Portfolio Personnel
 **2025** | HTML, CSS  
-Projet personnel qui m’a permis de maîtriser les bases du HTML/CSS et de comprendre les étapes nécessaires au déploiement d’un site web en ligne. 
+Projet personnel qui m’a permis de maîtriser les bases du HTML/CSS et de comprendre les étapes nécessaires au déploiement d’un site web en ligne.  
 [Découvrir mon portfolio](https://www.abdstudio.fr/)
 
 ### Pipeline RAG avec DSPy et Qdrant
