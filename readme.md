@@ -32,7 +32,7 @@ abdr = Developer()
 
 ## Recherche active
 
-> **Alternance** : Disponible pour une alternance en Informatique **pour l'année 2026-2027**
+> **Alternance** : A la recherche d'une alternance en Informatique **pour l'année 2026-2027**
 
 ---
 
