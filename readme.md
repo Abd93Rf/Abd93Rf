@@ -32,7 +32,7 @@ abdr = Developer()
 
 ## Recherche active
 
-> **Alternance** : Disponible pour une alternance en Informatique **pour l'année 2026-2027**
+> **Alternance** : A la recherche d'une alternance en Informatique **pour l'année 2026-2027**
 
 ---
 
@@ -63,7 +63,7 @@ Les données sont exposées via une **API REST PHP**, analysées par des scripts
 🚧 *Projet en cours...*
 
 ### Pipeline RAG avec DSPy et Qdrant
-**2026** | Stagiaire Développeur IA | Python, DSPy, Qdrant, Sentence Transformers, Claude 3 Sonnet  
+**2025** | Stagiaire Développeur IA | Python, DSPy, Qdrant, Sentence Transformers, Claude 3 Sonnet  
 Stage axé sur l’expérimentation de **DSPy (DeepSpeed Programs)** pour orchestrer des **pipelines RAG (Retrieval-Augmented Generation)**.  
 Objectif : concevoir un système capable de **rechercher automatiquement des données dans une base vectorielle Qdrant** et de **générer des réponses contextuelles fiables** via une API.  
 [Voir le projet](https://github.com/Abd93Rf/DSPy-Qdrant)
