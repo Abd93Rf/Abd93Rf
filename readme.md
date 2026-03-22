@@ -56,10 +56,11 @@ abdr = Developer()
 
 ## Projets Récents
 
-### Portfolio Personnel
-**2025** | HTML, CSS  
-Projet personnel qui m’a permis de maîtriser les bases du HTML/CSS et de comprendre les étapes nécessaires au déploiement d’un site web en ligne.  
-[Découvrir mon portfolio](https://www.abdstudio.fr/)
+### Smart Trash – Système Intelligent de Gestion des Déchets Urbains
+**2026** | BTS CIEL | Arduino, LoRa, Raspberry Pi, PHP, MariaDB, Python, HTML/CSS/JS, Docker  
+Système **IoT** conçu pour optimiser la gestion des déchets urbains : des poubelles connectées équipées de capteurs (niveau de remplissage, poids, température) communiquent via **LoRa** vers un serveur central **Raspberry Pi / MariaDB**.  
+Les données sont exposées via une **API REST PHP**, analysées par des scripts Python intégrant un **algorithme du plus proche voisin** pour optimiser les tournées de collecte, et visualisées dans une interface web dynamique consommant l'API via `fetch()`.  
+🚧 *Projet en cours...*
 
 ### Pipeline RAG avec DSPy et Qdrant
 **2026** | Stagiaire Développeur IA | Python, DSPy, Qdrant, Sentence Transformers, Claude 3 Sonnet  
