@@ -57,10 +57,10 @@ abdr = Developer()
 ## Projets Récents
 
 ### Smart Trash – Système Intelligent de Gestion des Déchets Urbains
-**2026** | BTS CIEL | Arduino, LoRa, Raspberry Pi, PHP, MariaDB, Python, HTML/CSS/JS, Docker  
-Système **IoT** conçu pour optimiser la gestion des déchets urbains : des poubelles connectées équipées de capteurs (niveau de remplissage, poids, température) communiquent via **LoRa** vers un serveur central **Raspberry Pi / MariaDB**.  
-Les données sont exposées via une **API REST PHP**, analysées par des scripts Python intégrant un **algorithme du plus proche voisin** pour optimiser les tournées de collecte, et visualisées dans une interface web dynamique consommant l'API via `fetch()`.  
-🚧 *Projet en cours...*
+**2026** | Projet de fin de cursus - BTS CIEL | ESP32, MQTT, Raspberry Pi, API REST PHP, MariaDB, Python, HTML/CSS/JS, Docker  
+Système IoT conçu pour optimiser la gestion des déchets urbains : des poubelles connectées équipées de capteurs (niveau de remplissage, poids, température, humidité) communiquent via **MQTT** sur WiFi vers un serveur central **Raspberry Pi** / **MariaDB**.  
+Les données sont exposées via une **API REST PHP** avec alertes multi-critères automatiques, analysées par des scripts **Python** intégrant un algorithme du plus proche voisin pour optimiser les tournées de collecte, et visualisées dans une interface web dynamique consommant l'API via `fetch()` avec graphiques **Chart.js** et carte **Leaflet.js**.  
+[Voir le projet](https://github.com/Abd93Rf/smart-trash.git)
 
 ### Pipeline RAG avec DSPy et Qdrant
 **2025** | Stagiaire Développeur IA | Python, DSPy, Qdrant, Sentence Transformers, Claude 3 Sonnet  
