@@ -18,11 +18,11 @@
 ```python
 class Developer:
     def __init__(self):
-        self.status = "Étudiant BTS CIEL 2ème Année"
+        self.status = "Titulaire d'un BTS Cybersécurité, Informatique et Réseaux, Electronique"
         self.location = "Seine-Saint-Denis"
         self.current_focus = ["Cybersécurité", "Intelligence Artificielle", "Développement projets innovants"
         self.looking_for = {
-        "alternance": "Septembre 2026 - Informatique"
+        "alternance": "Septembre 2026"
         }
         self.passion = ["Informatique et cybersécurité", "Sport", "Cinéma"]
         self.portfolio = "https://www.abdstudio.fr/"
