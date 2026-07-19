@@ -3,7 +3,7 @@
 
 # Salut, moi c'est Abd'R
 
-### `<Etudiant en informatique />`
+### `<Étudiant en Cybersécurité | Développement, Réseaux & IA  />`
 
 [![Portfolio](https://img.shields.io/badge/Mon-Portfolio-8B5CF6?style=for-the-badge)](https://www.abdstudio.fr/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Abd%20El%20Raouf%20Oura-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abd-el-raouf-oura-9b1594397)
@@ -18,7 +18,7 @@
 ```python
 class Developer:
     def __init__(self):
-        self.status = "Titulaire d'un BTS Cybersécurité, Informatique et Réseaux, Electronique"
+        self.status = "Diplômé d'un BTS Cybersécurité, Informatique et Réseaux, Electronique"
         self.location = "Seine-Saint-Denis"
         self.current_focus = ["Cybersécurité", "Intelligence Artificielle", "Développement projets innovants"
         self.looking_for = {
