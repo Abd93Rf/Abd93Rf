@@ -23,8 +23,6 @@ class Developer:
         self.current_focus = ["Cybersécurité", "Intelligence Artificielle", "Développement projets innovants"
         self.looking_for = {
         "alternance": "Septembre 2026"
-        "school": "Epitech Paris",
-        "program": "Bachelor 3 Concepteur Développeur d'Applications spécialisé Cybersécurité"
         }
         self.passion = ["Informatique et cybersécurité", "Sport", "Cinéma"]
         self.portfolio = "https://www.abdstudio.fr/"
